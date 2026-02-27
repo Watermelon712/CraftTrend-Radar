@@ -1,0 +1,35 @@
+{
+  "meta": { "generated_at": "2026-02-27T00:00:00Z" },
+  "items": [
+    {
+      "id": "cn-001",
+      "title": "串珠手机链：Y2K 复古回潮，材料清单与配色建议",
+      "url": "https://example.com/cn-beads",
+      "source": "Demo Source",
+      "region": "cn",
+      "published_at": "2026-02-26T10:00:00Z",
+      "tags": ["串珠", "手机链", "配色", "新手友好"],
+      "summary": ""
+    },
+    {
+      "id": "gl-001",
+      "title": "Tufting rugs trend: bold typography + checkerboard patterns",
+      "url": "https://example.com/tufting",
+      "source": "Demo Source",
+      "region": "global",
+      "published_at": "2026-02-25T12:00:00Z",
+      "tags": ["tufting", "rug", "pattern", "home decor"],
+      "summary": ""
+    },
+    {
+      "id": "gl-002",
+      "title": "Crochet micro-bags: summer colorways and quick patterns",
+      "url": "https://example.com/crochet-bag",
+      "source": "Demo Source",
+      "region": "global",
+      "published_at": "2026-02-24T09:30:00Z",
+      "tags": ["crochet", "bag", "summer", "pattern"],
+      "summary": ""
+    }
+  ]
+}
